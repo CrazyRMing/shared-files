@@ -1,0 +1,9 @@
+﻿ZipName: github-share-full-flow-test-56171.zip
+ZipPath: C:\Users\user\Documents\常用軟體安裝\github-share\files\20260708\github-share-full-flow-test-56171.zip
+PasswordProtected: True
+Password: 6526220
+Description: 完整流程測試檔，可刪除
+GitHubRepo: shared-files
+GitHubPath: files/20260708/github-share-full-flow-test-56171.zip
+GitHubUrl: https://github.com/CrazyRMing/shared-files/blob/main/files/20260708/github-share-full-flow-test-56171.zip
+DownloadUrl: https://raw.githubusercontent.com/CrazyRMing/shared-files/main/files/20260708/github-share-full-flow-test-56171.zip
