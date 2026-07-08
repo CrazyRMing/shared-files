@@ -1,0 +1,9 @@
+﻿ZipName: github-share-short-url-test-30958.zip
+ZipPath: C:\Users\user\Documents\常用軟體安裝\github-share\files\20260708\github-share-short-url-test-30958.zip
+PasswordProtected: True
+Password: 4904925
+Description: 短網址流程測試檔，可刪除
+GitHubRepo: shared-files
+GitHubPath: files/20260708/github-share-short-url-test-30958.zip
+GitHubUrl: https://github.com/CrazyRMing/shared-files/blob/main/files/20260708/github-share-short-url-test-30958.zip
+DownloadUrl: https://raw.githubusercontent.com/CrazyRMing/shared-files/main/files/20260708/github-share-short-url-test-30958.zip
